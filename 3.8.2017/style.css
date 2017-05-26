@@ -1,0 +1,17 @@
+h1 {
+	text-align: center;
+}
+
+.jumbotron {
+	color: default;
+}
+
+
+
+.colorRed {
+	background-color: red;
+}
+
+.colorBlue {
+	background-color: blue;
+}

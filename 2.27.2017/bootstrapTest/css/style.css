@@ -1,0 +1,12 @@
+h1 {
+	text-align: center;
+}
+
+.jumbotron {
+	color: white;
+}
+
+#wrap {
+	position: absolute;
+	top: 0;
+}
